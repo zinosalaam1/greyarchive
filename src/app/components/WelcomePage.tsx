@@ -70,7 +70,7 @@ export default function WelcomePage({ onStart }: WelcomePageProps) {
             transition={{ delay: 0.8 }}
             className="space-y-3 text-neutral-400 text-sm md:text-base"
           >
-            <p>Estimated pass rate: ~10%</p>
+            <p>Estimated pass rate: 100%</p>
             <p className="text-xs md:text-sm">Style: Minimalist, meta, memory-hostile</p>
             <p className="italic text-neutral-500">Rule: Using all the information guarantees failure.</p>
           </motion.div>
